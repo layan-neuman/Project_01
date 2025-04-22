@@ -1,0 +1,11 @@
+Git command
+
+//Github cobfig
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+//Project clone 
+
+git clone https://github.com/layan-neuman/Project_01.git
+
